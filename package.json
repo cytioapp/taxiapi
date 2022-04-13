@@ -12,7 +12,7 @@
   "dependencies": {
     "@babel/runtime": "^7.3.4",
     "@sendgrid/mail": "^6.3.1",
-    "async": "^3.1.1",
+    "async": "^3.2.2",
     "axios": "^0.18.0",
     "body-parser": "^1.18.3",
     "bookshelf": "^0.13.3",
